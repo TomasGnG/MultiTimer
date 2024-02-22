@@ -1,0 +1,4 @@
+name: MultiTimer
+version: '${project.version}'
+main: de.tomasgng.multitimer.MultiTimer
+api-version: '1.20'
